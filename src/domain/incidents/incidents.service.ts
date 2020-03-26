@@ -4,7 +4,6 @@ import {
   UnauthorizedException,
 } from '@nestjs/common';
 import { IncidentsRepository } from './incidents.repository';
-import * as crypto from 'crypto';
 import { Incident } from './interfaces/incident.interface';
 import { CreateIncidentDto } from './dtos/create-incident.dto';
 
