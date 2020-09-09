@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "This project contains the be-hero app API with NestJS and Knex",
   "author": "Leonardo Torres",
+  "keywords": ['NestJS', 'SQLite', 'Knex']
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
